@@ -1,4 +1,4 @@
-# PIAIC BootCamp2020 Class1
+# PIAIC BootCamp2020 Class2
 
 http://irfan-bootcamp2020-class2.surge.sh/
 
